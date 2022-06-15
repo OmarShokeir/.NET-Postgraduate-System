@@ -3,8 +3,9 @@
 Project that keeps track of students and instructors for postgraduate studies along with courses, thesis and the rest of the aspects.
 
 ## Features:
-- ERD Model
 
+
+## ERD Model:
 ![ERD model](ERD.PNG)
 
 ## Contributors:
