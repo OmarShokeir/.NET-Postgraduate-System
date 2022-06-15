@@ -4,7 +4,7 @@ Project that keeps track of students and instructors for postgraduate studies al
 
 ## Features:
 - ERD Model
-![ERD model](https://prnt.sc/ISfva_WFvVaF)
+![ERD model](ERD.PNG)
 
 ## Contributors:
 - Khaled Barakat
